@@ -1,6 +1,8 @@
 # shark
 Nonlinear 6DOF Model of an Underwater Vehicle
 
+[![View Shark on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/1207-shark)
+
 hark is a detailed nonlinear model of an underwater vehicle for MATLAB&reg; 5.3 and later (tested on 6.1 as well).
 
 It has a Simulink&reg; interface but the source code consists in 10 MATLAB functions, each one being well documented in an enclosed PDF report.
