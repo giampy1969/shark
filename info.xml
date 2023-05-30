@@ -1,0 +1,30 @@
+<productinfo>
+
+<matlabrelease>12</matlabrelease>
+<name>Shark</name>
+<type>blockset</type>
+<icon>$toolbox/simulink/simulink/blockdiagramicon.gif</icon>
+
+<list>
+
+<listitem>
+<label>Help</label>
+<callback>doc shark/</callback>
+<icon>$toolbox/matlab/icons/book_sim.gif</icon>
+</listitem>
+
+<listitem>
+<label>Open Loop</label>
+<callback>shark;oploop</callback>
+<icon>$toolbox/matlab/icons/demoicon.gif</icon>
+</listitem>
+
+<listitem>
+<label>Closed Loop</label>
+<callback>shark;nlksf</callback>
+<icon>$toolbox/matlab/icons/demoicon.gif</icon>
+</listitem>
+
+</list>
+
+</productinfo>
